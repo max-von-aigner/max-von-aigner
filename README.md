@@ -5,6 +5,7 @@ This tale unfolds with Max, a developer from the lands of Germany, now dwelling 
 - With my agile sword in hand, I fearlessly battled the "silently expanding scope dragon" and faced off against the notorious "deploy on Friday monster" 🐉
 - Deeply impressed by the powerful coding spells of my software engineering allies, I decided to learn the noble craft of coding myself 🦄
 - My apprenticeship is now complete and ✨ **I'm open to work at the moment** ✨ 🪄 
+<br/>
 
 ## Skills & Expertise 🧙‍♂️
 
@@ -16,13 +17,15 @@ REST APIs with Express, Prisma ORM (Postgres & SQLite) 🧌
 
 Utility Spells:
 Zod (data validation), React-Hook-Form, JSON Web Tokens (authentication) 🧞‍♀️
+<br/>
+<br/>
 
 ## Projects I'm Proud Of ✨
 
 - Booth: An online DJ app, which is hosted publicly: <a href="https://booth-vert.vercel.app/">✋🏼booth-vert.app🤚🏼</a> <a href="https://github.com/max-von-aigner/dj-booth">Github</a> 🎧
 - Code Jedi: A ChatGPT-integrated mobile app, to help users with their coding questions <a href="https://github.com/max-von-aigner/code_jedi">Github</a> 
 - Home Chef Recipe: A full-stack recipe-sharing platform, where users can create an account, add cooking recipes, add comments, and browse other users recipes (Private Repo)
-
+<br/>
 ## To Forge a Connection 🧚🏽‍♂️
 
 Should you wish to chat, send a messenger pigeon or use one of those modern communication methods from the list below: 
