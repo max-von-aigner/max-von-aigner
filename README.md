@@ -9,13 +9,13 @@ This tale unfolds with Max, a developer from the lands of Germany, now dwelling 
 
 ## Skills & Expertise 🧙‍♂️
 
-Frontend Arcanum:
+Frontend:
 TypeScript with Next.js (React), Tailwind CSS, Radix, Shadcn, Framer Motion 🧝🏾‍♀️
 
-Backend Enchantments:
+Backend:
 REST APIs with Express, Prisma ORM (Postgres & SQLite) 🧌
 
-Utility Spells:
+Utilities:
 Zod (data validation), React-Hook-Form, JSON Web Tokens (authentication) 🧞‍♀️
 <br/>
 <br/>
