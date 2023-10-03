@@ -22,8 +22,8 @@ Zod (data validation), React-Hook-Form, JSON Web Tokens (authentication) 🧞‍
 
 ## Projects I'm Proud Of ✨
 
-- Booth: An online DJ app, which is hosted publicly: <a href="https://booth-vert.vercel.app/">✋🏼booth-vert.app🤚🏼</a> <a href="https://github.com/max-von-aigner/dj-booth">Github</a> 🎧
-- Code Jedi: A ChatGPT-integrated mobile app, to help users with their coding questions <a href="https://github.com/max-von-aigner/code_jedi">Github</a> 
+- Booth: An online DJ app, which is hosted publicly. Links: <a href="https://booth-vert.vercel.app/">Booth App</a> <a href="https://github.com/max-von-aigner/dj-booth">Github</a>
+- Code Jedi: A ChatGPT-integrated mobile app, to help users with their coding questions. Links: <a href="https://github.com/max-von-aigner/code_jedi">Github</a> 
 - Home Chef Recipe: A full-stack recipe-sharing platform, where users can create an account, add cooking recipes, add comments, and browse other users recipes (Private Repo)
 <br/>
 ## To Forge a Connection 🧚🏽‍♂️
