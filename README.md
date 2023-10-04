@@ -1,13 +1,13 @@
-## Hey There, Brave Traveler! 👋🏼
-This tale unfolds with Max, a developer from the lands of Germany, now dwelling in the realm of the Netherlands 🌷
+## Hey there, welcome to my Github! 👋🏼
+I'm Max, an aspiring Frontend Developer. Born in Germany, lived in Canada, Brazil and South East Asia and am currently based in Amsterdam, in the Netherlands 🌷
 
-- My journey in the tech kingdom began as a Product Manager 🔮
-- With my agile sword in hand, I fearlessly battled the "silently expanding scope dragon" and faced off against the notorious "deploy on Friday monster" 🐉
-- Deeply impressed by the powerful coding spells of my software engineering allies, I decided to learn the noble craft of coding myself 🦄
-- My apprenticeship is now complete and ✨ **I'm open to work at the moment** ✨ 🪄 
+- My tech-journey began as a Product Manager at Lemonade, where I learned so much about managing software development 🔮
+- However, I always felt, that the devs are doing the actual work, while I can only support by planning, organizing, prioritizing 
+- Deeply impressed by the shere magic of my developer colleagues, I decided to learn the noble craft of coding myself 🦄
+- I just graduated from a full-stack development bootcamp and ✨ **I'm open to work at the moment** ✨ 🪄 
 <br/>
 
-## Skills & Expertise 🧙‍♂️
+## Skills & Tech 🧙‍♂️
 
 Frontend:
 TypeScript with Next.js (React), Tailwind CSS, Radix, Shadcn, Framer Motion 🧝🏾‍♀️
@@ -28,7 +28,9 @@ Zod (data validation), React-Hook-Form, JSON Web Tokens (authentication) 🧞‍
 <br/>
 ## To Forge a Connection 🧚🏽‍♂️
 
-Should you wish to chat, send a messenger pigeon or use one of those modern communication methods from the list below: 
+## Get in touch 🤝
+
+If you have any questions, or just want to connect, feel free to send a messenger pigeon or use one of those modern communication methods from the list below: 
 <br/>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MaxVonAigner)
