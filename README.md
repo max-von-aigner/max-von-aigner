@@ -26,7 +26,6 @@ Zod (data validation), React-Hook-Form, JSON Web Tokens (authentication) 🧞‍
 - Code Jedi: A ChatGPT-integrated mobile app, to help users with their coding questions. Links: <a href="https://github.com/max-von-aigner/code_jedi">Github</a> 
 - Home Chef Recipe: A full-stack recipe-sharing platform, where users can create an account, add cooking recipes, add comments, and browse other users recipes (Private Repo)
 <br/>
-## To Forge a Connection 🧚🏽‍♂️
 
 ## Get in touch 🤝
 
