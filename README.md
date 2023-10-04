@@ -4,7 +4,7 @@ I'm Max, an aspiring Frontend Developer from Germany, who lived in Canada, Brazi
 - My tech-journey began as a Product Manager at Lemonade, where I learned so much about managing software development 🔮
 - However, I always felt, that the devs are doing the actual work, while I can only support by planning, organizing, prioritizing 
 - Deeply impressed by the shere magic of my developer colleagues, I decided to learn the noble craft of coding myself 🦄
-- I just graduated from a full-stack development bootcamp and ✨ **I'm open to work at the moment** ✨ 🪄 
+- I just graduated from a full-stack development bootcamp and ✨ **I'm open to work** ✨ 🪄 
 <br/>
 
 ## Skills & Tech 🧙‍♂️
