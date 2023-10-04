@@ -9,13 +9,13 @@ I'm Max, an aspiring Frontend Developer from Germany, who lived in Canada, Brazi
 
 ## Skills & Tech 🧙‍♂️
 
-Frontend:
+- Frontend:
 TypeScript with Next.js (React), Tailwind CSS, Radix, Shadcn, Framer Motion 🧝🏾‍♀️
 
-Backend:
+- Backend:
 REST APIs with Express, Prisma ORM (Postgres & SQLite) 🧌
 
-Utilities:
+- Utilities:
 Zod (data validation), React-Hook-Form, JSON Web Tokens (authentication) 🧞‍♀️
 <br/>
 <br/>
