@@ -1,5 +1,5 @@
 ## Hey there, welcome to my Github! 👋🏼
-I'm Max, an aspiring Frontend Developer. Born in Germany, lived in Canada, Brazil and South East Asia and am currently based in Amsterdam, in the Netherlands 🌷
+I'm Max, an aspiring Frontend Developer from Germany, who lived in Canada, Brazil, South East Asia. Currently I am based in Amsterdam 🌷
 
 - My tech-journey began as a Product Manager at Lemonade, where I learned so much about managing software development 🔮
 - However, I always felt, that the devs are doing the actual work, while I can only support by planning, organizing, prioritizing 
