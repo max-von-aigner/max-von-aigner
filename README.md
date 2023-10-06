@@ -1,7 +1,7 @@
 ## Hey there, welcome to my Github! 👋🏼
 I'm Max, an aspiring Frontend Developer from Germany, who lived in Canada, Brazil, South East Asia. Currently I am based in Amsterdam 🌷
 
-- My tech-journey began as a Product Manager at Lemonade in Amsterdam, where I learned so much about managing software development 🔮
+- My tech-journey began as a Product Manager at Lemonade, where I learned so much about managing software development 🔮
 - Deeply impressed by the shere magic of my developer colleagues, I decided to learn the noble craft of coding myself 🦄
 - I just graduated from a full-stack development bootcamp and ✨ **I'm open to work** ✨ 🪄 
 <br/>
