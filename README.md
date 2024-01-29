@@ -34,6 +34,8 @@ I love to build my own apps, so I decided go into programming full-time and use 
 ## Projects I'm Proud of ✨
 
 - Booth: An online DJ app, which is hosted publicly. Links: <a href="https://booth-vert.vercel.app/">Booth App</a> <a href="https://github.com/max-von-aigner/dj-booth">Github</a>
+![Example Image]([https://example.com/path/to/your/image.jpg](https://github.com/max-von-aigner/dj-booth/blob/main/public/ui.png))
+<br/>
 - Code Jedi: A ChatGPT-integrated mobile app, to help users with their coding questions. Links: <a href="https://github.com/max-von-aigner/code_jedi">Github</a> 
 - Home Chef Recipe: A full-stack recipe-sharing platform, where users can create an account, add cooking recipes, add comments, and browse other users recipes (Private Repo)
 <br/>
