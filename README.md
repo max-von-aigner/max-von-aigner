@@ -16,19 +16,19 @@ I love to build my own apps, so I decided go into programming full-time and use 
 [![Radix](https://img.shields.io/badge/Radix-05E081?style=for-the-badge)](https://radix-ui.com/)
 [![Shadcn](https://img.shields.io/badge/Shadcn-FF6F61?style=for-the-badge)](https://shadcn.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge)](https://www.framer.com/motion/)
+<br/>
 
 ### Backend
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
 [![Postgres](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+<br/>
 
 ### Utilities
 [![Zod](https://img.shields.io/badge/Zod-2D3748?style=for-the-badge)](https://github.com/colinhacks/zod)
 [![React Hook Form](https://img.shields.io/badge/React_Hook_Form-0F6B94?style=for-the-badge)](https://react-hook-form.com/)
 [![JSON Web Tokens](https://img.shields.io/badge/JSON_Web_Tokens-000000?style=for-the-badge)](https://jwt.io/)
-
-<br/>
 <br/>
 
 ## Projects I'm Proud of ✨
