@@ -1,21 +1,32 @@
 ## Hey There, Welcome to my Github! 👋🏼
-I'm Max, an aspiring Frontend Developer from Germany, who lived in Canada, Brazil, South East Asia. Currently I am based in Amsterdam 🌷
+I'm Max, a Full-Stack Engineer, based in Amsterdam 🌷
 
-- My tech-journey began as a Product Manager at Lemonade, where I learned so much about managing software development 🔮
-- Deeply impressed by the shere magic of my developer colleagues, I decided to learn the noble craft of coding myself 🦄
-- I just graduated from a full-stack development bootcamp and ✨ **I'm open to work** ✨ 🪄 
+Before going into Software Engineering professionally, I was a Product Manager, at Lemonade, the fintech unicorn from NYC 🦄 ✨
 <br/>
+I love to build my own apps, so I decided go into programming full-time and use my product background, to build extra awesome stuff 🪄
 
-## Skills & Tech 🧙‍♂️
+## Skills & Tech 
 
-- Frontend:
-TypeScript with Next.js (React), Tailwind CSS, Radix, Shadcn, Framer Motion 🧝🏾‍♀️
+## Frontend
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Radix](https://img.shields.io/badge/Radix-05E081?style=for-the-badge)](https://radix-ui.com/)
+[![Shadcn](https://img.shields.io/badge/Shadcn-FF6F61?style=for-the-badge)](https://shadcn.com/)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge)](https://www.framer.com/motion/)
 
-- Backend:
-REST APIs with Express, Prisma ORM (Postgres & SQLite) 🧌
+## Backend
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![Postgres](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
-- Utilities:
-Zod (data validation), React-Hook-Form, JSON Web Tokens (authentication) 🧞‍♀️
+## Utilities
+[![Zod](https://img.shields.io/badge/Zod-2D3748?style=for-the-badge)](https://github.com/colinhacks/zod)
+[![React Hook Form](https://img.shields.io/badge/React_Hook_Form-0F6B94?style=for-the-badge)](https://react-hook-form.com/)
+[![JSON Web Tokens](https://img.shields.io/badge/JSON_Web_Tokens-000000?style=for-the-badge)](https://jwt.io/)
+
 <br/>
 <br/>
 
