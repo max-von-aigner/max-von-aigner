@@ -31,8 +31,6 @@ Zod (data validation), React-Hook-Form, JSON Web Tokens (authentication) 🧞‍
 If you have any questions, or just want to connect, feel free to send a messenger pigeon or use one of those modern communication methods from the list below: 
 <br/>
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MaxVonAigner)
-<br/>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/vonaigner/)
 <br/> 
 von.aigner@gmail.com
