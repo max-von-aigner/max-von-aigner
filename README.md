@@ -1,7 +1,7 @@
 ## Hey There, Welcome to my Github! 👋🏼
 I'm Max, a Full-Stack Engineer, based in Amsterdam 🌷
 
-Before going into Software Engineering professionally, I was a Product Manager, at Lemonade, the fintech unicorn from NYC 🦄 ✨
+Before becoming a Full-Stack Software Engineer, I used to be a Product Manager at Lemonade. 
 <br/>
 I love to build my own apps, so I decided go into programming full-time and use my product background, to build extra awesome stuff 🪄
 
